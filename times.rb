@@ -7,6 +7,6 @@ def using_times(phrase)
     phrase = Wingardium Leviosa
 end
 
-
+end
 
 
